@@ -1,0 +1,12 @@
+Pre requisite
+	1. JVM/Java should be installed on your machine
+	2. The directory structure should be same. i.e. following shoule be in same directory
+		1. A directory in which all the xml files will be kept (name defined in xml.proprties file) 
+		2. xml.Properties file 
+		3. xlsx file in which all the desired attribute will be written in first row. one attribute in a column without any gap in columns (name defined in xml.proprties file) 
+		4. xml output data file (name defined in xml.proprties file)
+		5. Exe file 
+	
+Altering name of directory and/or file can be done using xml.Properties file.
+
+

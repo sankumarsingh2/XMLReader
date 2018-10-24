@@ -1,0 +1,109 @@
+<DebugXml><EntityDbgBefore>
+<Event type="GSM voice" version="118000000">
+<Attribute name="Segments" basicType="Numeric"><Value value="
+SegmentsStorage: 
+-------------- 
+"/></Attribute>
+<Attribute name="Calculated charges" basicType="Numeric"><Value value="(Vector ComplexAttribute)
+Elementery type name name:Monetary amount
+UOM name:NULL
+precision:8
+Dimensions Names:
+Chargeable attribute --> 0
+"/></Attribute>
+<Attribute name="Current chargeable attribute" basicType="String"><Value value=""/></Attribute>
+<Attribute name="Cycle code" basicType="Numeric"><Value value="2"/></Attribute>
+<Attribute name="Cycle month" basicType="Numeric"><Value value="9"/></Attribute>
+<Attribute name="Cycle year" basicType="Numeric"><Value value="2018"/></Attribute>
+<Attribute name="Event type ID" basicType="Numeric"><Value value="31848"/></Attribute>
+<Attribute name="Event ID" basicType="Numeric"><Value value="234572103827446388"/></Attribute>
+<Attribute name="Network start time" basicType="DateTime"><Value value="2018-09-01 11:04:47"/></Attribute>
+<Attribute name="Service filter" basicType="String"><Value value="INT1AV"/></Attribute>
+<Attribute name="Start time" basicType="DateTime"><Value value="2018-09-01 11:05:01"/></Attribute>
+<Attribute name="Subscriber ID" basicType="Numeric"><Value value="2"/></Attribute>
+<Attribute name="Customer ID" basicType="Numeric"><Value value="1"/></Attribute>
+<Attribute name="Target cycle code" basicType="Numeric"><Value value="9"/></Attribute>
+<Attribute name="Source ID" basicType="Numeric"><Value value="298236641952215"/></Attribute>
+<Attribute name="Billing arrangement" basicType="Numeric"><Value value="1"/></Attribute>
+<Attribute name="Subscriber no" basicType="String"><Value value="07795671726"/></Attribute>
+<Attribute name="IMEI" basicType="String"><Value value="359484025089170"/></Attribute>
+<Attribute name="Pay channel" basicType="Numeric"><Value value="1"/></Attribute>
+<Attribute name="Target customer ID" basicType="Numeric"><Value value="283663974"/></Attribute>
+<Attribute name="Account" basicType="Numeric"><Value value="0"/></Attribute>
+<Attribute name="Guiding resource ID" basicType="String"><Value value="07795824721"/></Attribute>
+<Attribute name="Guiding resource type" basicType="String"><Value value="C"/></Attribute>
+<Attribute name="Billing resource type" basicType="String"><Value value="C"/></Attribute>
+<Attribute name="Billing resource ID" basicType="String"><Value value="07795671726"/></Attribute>
+<Attribute name="Member ID" basicType="String"><Value value="00"/></Attribute>
+<Attribute name="Offer ID" basicType="Numeric"><Value value="99999"/></Attribute>
+<Attribute name="SOC code" basicType="String"><Value value="1NET624A"/></Attribute>
+<Attribute name="Price plan code" basicType="String"><Value value="1NET624A"/></Attribute>
+<Attribute name="Item ID" basicType="Numeric"><Value value="99999"/></Attribute>
+<Attribute name="Charge amount" basicType="Numeric" uom="Pounds"><Value value="0.000"/></Attribute>
+<Attribute name="Charge including free allowances" basicType="Numeric" uom="Pounds"><Value value="1.000"/></Attribute>
+<Attribute name="Additional charge" basicType="Numeric" uom="Pounds"><Value value="0.000"/></Attribute>
+<Attribute name="Customer offer currency" basicType="String"><Value value=" "/></Attribute>
+<Attribute name="Charge code" basicType="String"><Value value="INTPR"/></Attribute>
+<Attribute name="Cause for forwarding" basicType="String"><Value value="00"/></Attribute>
+<Attribute name="Au effective date" basicType="DateTime"><Value value="2020-12-31 00:00:00"/></Attribute>
+<Attribute name="Cycle month start date" basicType="DateTime"><Value value="2018-09-01 11:04:22"/></Attribute>
+<Attribute name="Pass through indicator" basicType="String"><Value value="N"/></Attribute>
+<Attribute name="Call cross date ind" basicType="String"><Value value="N"/></Attribute>
+<Attribute name="Call cross period ind" basicType="String"><Value value="N"/></Attribute>
+<Attribute name="Call cross step ind" basicType="String"><Value value="N"/></Attribute>
+<Attribute name="Call cross IM ind" basicType="String"><Value value="N"/></Attribute>
+<Attribute name="PP UOM" basicType="String"><Value value="M"/></Attribute>
+<Attribute name="VF origin" basicType="String"><Value value="P"/></Attribute>
+<Attribute name="Rate action code" basicType="String"><Value value="BO"/></Attribute>
+<Attribute name="Transmission short desc" basicType="String"><Value value=" "/></Attribute>
+<Attribute name="TCT description" basicType="String"><Value value=" "/></Attribute>
+<Attribute name="CSM prst code" basicType="String"><Value value="04"/></Attribute>
+<Attribute name="WH pre bundle" basicType="Numeric" uom="Pounds"><Value value="1.000"/></Attribute>
+<Attribute name="Company ID" basicType="String"><Value value="1"/></Attribute>
+<Attribute name="Group category" basicType="String"><Value value="INT1AV"/></Attribute>
+<Attribute name="NP code" basicType="String"><Value value="V"/></Attribute>
+<Attribute name="VP setup charge" basicType="Numeric"><Value value="0.00"/></Attribute>
+<Attribute name="Market code" basicType="String"><Value value="VCL"/></Attribute>
+<Attribute name="Metered units" basicType="Numeric"><Value value="0"/></Attribute>
+<Attribute name="Pricing feature code" basicType="String"><Value value="INT1AV"/></Attribute>
+<Attribute name="Charge party indicator" basicType="String"><Value value="A"/></Attribute>
+<Attribute name="VF month" basicType="DateTime"><Value value="2020-12-31 00:00:00"/></Attribute>
+<Attribute name="Wholesale rated UOM" basicType="String"><Value value="M"/></Attribute>
+<Attribute name="Rerate ind" basicType="String"><Value value="N"/></Attribute>
+<Attribute name="Location ID" basicType="String"><Value value=" "/></Attribute>
+<Attribute name="Offer selection date" basicType="DateTime"><Value value="2020-12-31 00:00:00"/></Attribute>
+<Attribute name="Call direction" basicType="String"><Value value="MO"/></Attribute>
+<Attribute name="Calling number" basicType="String"><Value value="07723456733"/></Attribute>
+<Attribute name="Wholesale amount" basicType="Numeric" uom="Pounds"><Value value="1.000"/></Attribute>
+<Attribute name="Non discount wholesale price" basicType="Numeric" uom="Pounds"><Value value="0.000"/></Attribute>
+<Attribute name="Bundle type" basicType="String"><Value value=" "/></Attribute>
+<Attribute name="Bundle used" basicType="Numeric"><Value value="0"/></Attribute>
+<Attribute name="Tariff class" basicType="Numeric"><Value value="609"/></Attribute>
+<Attribute name="Tariff type" basicType="String"><Value value="N"/></Attribute>
+<Attribute name="Transmission type" basicType="String"><Value value="V"/></Attribute>
+<Attribute name="Subs Tariff Type" basicType="String"><Value value="U"/></Attribute>
+<Attribute name="Call start period" basicType="Numeric"><Value value="1"/></Attribute>
+<Attribute name="Call end period" basicType="Numeric"><Value value="1"/></Attribute>
+<Attribute name="Free call reason" basicType="String"><Value value="0"/></Attribute>
+<Attribute name="Tech call type" basicType="String"><Value value="G"/></Attribute>
+<Attribute name="AF input File ID" basicType="Numeric"><Value value="0"/></Attribute>
+<Attribute name="Transfer Batch Number" basicType="Numeric"><Value value="4446"/></Attribute>
+<Attribute name="Transfer Intermediate Number" basicType="Numeric"><Value value="16"/></Attribute>
+<Attribute name="Transfer Batch Suffix" basicType="Numeric"><Value value="7"/></Attribute>
+<Attribute name="Physical Identifier" basicType="Numeric"><Value value="298162212943200"/></Attribute>
+<Attribute name="Network Origin" basicType="String"><Value value="VF"/></Attribute>
+<Attribute name="Country Origin" basicType="String"><Value value="GBR"/></Attribute>
+<Attribute name="Message type" basicType="String"><Value value="0"/></Attribute>
+<Attribute name="Message Switch ID" basicType="String"><Value value="PP"/></Attribute>
+<Attribute name="Discount amount" basicType="Numeric" uom="Pounds"><Value value="0.000"/></Attribute>
+<Attribute name="Rating input file ID" basicType="Numeric"><Value value="298162212943200"/></Attribute>
+<Attribute name="Migrated Ind" basicType="String"><Value value="N"/></Attribute>
+<Attribute name="Duration" basicType="Numeric" uom="Seconds"><Value value="448"/></Attribute>
+<Attribute name="Rounded Duration" basicType="Numeric" uom="Minutes"><Value value="1.00000"/></Attribute>
+<Attribute name="Free duration" basicType="Numeric" uom="Minutes"><Value value="0.00000"/></Attribute>
+<Attribute name="Called Number" basicType="String"><Value value="337723456788"/></Attribute>
+<Attribute name="Service Type" basicType="String"><Value value="00"/></Attribute>
+<Attribute name="Service Code" basicType="String"><Value value="11"/></Attribute>
+<Attribute name="Mode Code" basicType="String"><Value value="0"/></Attribute>
+<Attribute name="SBA value" basicType="String"><Value value=" "/></Attribute>
+<ExtendedInfo type="EventExtendedInfo"><Field name="SYS_CREATION_DATE" value="2018-08-13 12:25:30"/><Field name="SYS_UPDATE_DATE" value="2018-08-13 12:25:30"/><Field name="APPLICATION_ID" value="RATER"/><Field name="TARGET_ID" value=""/><Field name="SUB_PARTITION_ID" value=""/></ExtendedInfo></Event></DebugXml>
